@@ -1,4 +1,8 @@
-![Image](https://pic4.zhimg.com/80/v2-92014b8d2bcf1cde9d676168e852d1e9.png)
+---
+title: 使用 Verdaccio 私有化 npm 源指南
+zhihu-title-image: https://pic4.zhimg.com/80/v2-92014b8d2bcf1cde9d676168e852d1e9.png
+zhihu-url: https://zhuanlan.zhihu.com/p/692416766
+---
 
 # 使用 Verdaccio 私有化 npm 源指南
 
